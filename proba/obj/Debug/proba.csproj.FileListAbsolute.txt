@@ -1,0 +1,54 @@
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\proba.exe.config
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\proba.exe
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\proba.pdb
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\obj\Debug\proba.csprojResolveAssemblyReference.cache
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\obj\Debug\proba.exe
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\obj\Debug\proba.pdb
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\PdfSharp.Charting.dll
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\PdfSharp.dll
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\PdfSharp.xml
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\PdfSharp.Charting.xml
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\de\PdfSharp.resources.dll
+c:\users\panonit\documents\visual studio 2013\Projects\proba\proba\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\proba.exe.config
+C:\Users\Six Five\Desktop\proba\proba\obj\Debug\proba.exe
+C:\Users\Six Five\Desktop\proba\proba\obj\Debug\proba.pdb
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\proba.exe
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\proba.pdb
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\PdfSharp.dll
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\PdfSharp.xml
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Six Five\Desktop\proba\proba\obj\Debug\proba.csprojResolveAssemblyReference.cache
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\itextsharp.dll
+C:\Users\Six Five\Desktop\proba\proba\bin\Debug\itextsharp.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\proba.exe.config
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\obj\Debug\proba.exe
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\obj\Debug\proba.pdb
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\proba.exe
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\proba.pdb
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\itextsharp.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\PdfSharp.Charting.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\PdfSharp.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\itextsharp.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\PdfSharp.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\PdfSharp.Charting.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\proba\proba\obj\Debug\proba.csprojResolveAssemblyReference.cache
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\proba.exe.config
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\obj\Debug\proba.exe
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\obj\Debug\proba.pdb
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\proba.exe
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\proba.pdb
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\itextsharp.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\PdfSharp.Charting.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\PdfSharp.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\itextsharp.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\PdfSharp.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\PdfSharp.Charting.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\obj\Debug\proba.csprojResolveAssemblyReference.cache

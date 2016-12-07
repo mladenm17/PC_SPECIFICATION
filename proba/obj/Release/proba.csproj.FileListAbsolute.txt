@@ -1,0 +1,28 @@
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\proba.exe.config
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\proba.exe
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\proba.pdb
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\itextsharp.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\PdfSharp.Charting.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\PdfSharp.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\itextsharp.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\PdfSharp.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\PdfSharp.Charting.xml
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\de\PdfSharp.resources.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\obj\Release\proba.exe
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\obj\Release\proba.pdb
+C:\Users\panonit\AppData\Roaming\Skype\My Skype Received Files\sveps\proba\obj\Release\proba.csprojResolveAssemblyReference.cache
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\proba.exe.config
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\obj\Release\proba.exe
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\obj\Release\proba.pdb
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\proba.exe
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\proba.pdb
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\itextsharp.dll
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\PdfSharp.Charting.dll
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\PdfSharp.dll
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\itextsharp.xml
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\PdfSharp.xml
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\PdfSharp.Charting.xml
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\de\PdfSharp.resources.dll
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\Six Five\Desktop\PC_Specifikacija\proba\obj\Release\proba.csprojResolveAssemblyReference.cache
